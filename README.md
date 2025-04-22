@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🎓 Final year undergraduate passionate about building scalable and efficient software.
-- 🛠️ Currently working on full-stack web development, testing, and cloud deployment.
+- 🛠️ Currently working on full-stack web development, micro-services.
 - 📫 Reach me at: **manadasachinthanaherath@gmail.com**
 
 ---
