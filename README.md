@@ -1,84 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Manada Herath</h1>
-<h3 align="center">Freelancer | Computer Science Undergraduate @ University of Moratuwa</h3>
+<h1 align="center">Hi, I'm Manada Herath 👋</h1>
+
+<h3 align="center">Final Year Computer Science & Engineering Undergraduate | University of Moratuwa</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Final year undergraduate passionate about building scalable and efficient software.
-- 🛠️ Currently working on full-stack web development, micro-services.
-- 📫 Reach me at: **manadasachinthanaherath@gmail.com**
+I'm a final year undergraduate majoring in Computer Science and Engineering at the University of Moratuwa, Sri Lanka. I’m passionate about building scalable software solutions and enjoy turning complex problems into clean, efficient systems. With a strong foundation in web development, microservices, and artificial intelligence, I focus on delivering quality through smart work rather than hard work.
+
+I'm also deeply passionate about **mathematics** and **competitive coding**. I was awarded **1st place at MoraXtreme 2024** and secured **4th place at ENIGMA**, demonstrating my problem-solving abilities in high-pressure coding contests. I’ve also actively participated in various **hackathons**, where I collaborate, innovate, and build solutions under tight deadlines.
+
+As a freelancer, I’ve worked on various full-stack projects, and I love diving into both frontend design and backend logic. I maintain a GPA of **3.83/4.00** and have been listed on the **Dean’s List for 3 out of 5 semesters** — a testament to my commitment and consistency.
+
+If you’re into tech, code, or cool ideas, feel free to connect with me!
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Reach Me At
 
-<p align="left">
-  <a href="https://linkedin.com/in/manada-herath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/@manada_herath" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
----
-
-### 🧠 Tech Stack & Tools
-
-#### Languages & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-</p>
-
-#### Web & UI Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-</p>
-
-#### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
-</p>
-
-#### Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="MSSQL" />
-</p>
-
-#### DevOps  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
-
-</p>
-
-#### Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-</p>
-
-#### AI/ML
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-</p>
+- **Email**: manadasachinthanaherath@gmail.com  
+- **LinkedIn**: [linkedin.com/in/manada-herath](https://linkedin.com/in/manada-herath)  
+- **HackerRank**: [@manada_herath](https://www.hackerrank.com/@manada_herath)
