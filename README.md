@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manada Herath 👋</h1>
 
-<h3 align="center">Final Year Computer Science & Engineering Undergraduate | University of Moratuwa</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Freelancer</h3>
 
 ---
 
