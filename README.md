@@ -10,8 +10,7 @@ I'm a final year undergraduate majoring in Computer Science and Engineering at t
 
 I'm also deeply passionate about **mathematics** and **competitive coding**. I was awarded **1st place at MoraXtreme 2024** and secured **4th place at ENIGMA**, demonstrating my problem-solving abilities in high-pressure coding contests. I’ve also actively participated in various **hackathons**, where I collaborate, innovate, and build solutions under tight deadlines.
 
-As a freelancer, I’ve worked on various full-stack projects, and I love diving into both frontend design and backend logic. I maintain a GPA of **3.83/4.00** and have been listed on the **Dean’s List for 3 out of 5 semesters** — a testament to my commitment and consistency.
-
+As a freelancer, I’ve worked on various full-stack projects, and I love diving into both frontend design and backend logic. I maintain a GPA of 3.83/4.00.
 If you’re into tech, code, or cool ideas, feel free to connect with me!
 
 ---
